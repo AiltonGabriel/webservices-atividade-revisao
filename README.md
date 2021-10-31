@@ -15,7 +15,7 @@ Como revisão e atividade de contextualização para iniciarmos a disciplina, vo
 
 ## Como usar
 
-1.  Instale o Pyhton 3 caso não tenha.
-2.  Altere o _SERVER_NAME_ no arquivo _client.py_ caso seja necessário.
+1. Instale o Pyhton 3 caso não tenha.
+2. Altere o _SERVER_NAME_ no arquivo _client.py_ caso seja necessário.
 3. Execute o _server.py_: ```python server.py```
 4. Execute o _client.py_: ```python client.py```
