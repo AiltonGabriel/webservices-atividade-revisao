@@ -1,5 +1,5 @@
-# atividade-revisao-webservices
-## _Ativida de revisão e contextualização Webservices_
+# webservices-atividade-revisao
+## _Web Services – Ativida de revisão e contextualização_
 
 Como revisão e atividade de contextualização para iniciarmos a disciplina, vocês deverão desenvolver um socket TCP (linguagem de programação livre) onde o cliente envia uma mensagem de texto e o servidor devolve outra mensagem informando:
 
